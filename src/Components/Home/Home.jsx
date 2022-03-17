@@ -38,7 +38,7 @@ const Home = () => {
             name="bookSearch"
             id="bookSearch"
             onChange={handleChange}
-            placeholder="Busque pelo nome do livro, autor, categoria..."
+            placeholder="Busque pelo nome do livro, autor..."
           />
           <Button name="Buscar" onClick={ClickSearch} />
         </ContainerSearch>
