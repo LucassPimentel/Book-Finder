@@ -1,4 +1,4 @@
-# Book Finder
+# Book Finder 📚
   Consumindo uma API para extrair dados de livros pesquisados. 
 
 ## Tecnologia(s) utilizadas: 
